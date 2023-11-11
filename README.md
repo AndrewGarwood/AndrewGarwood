@@ -1,5 +1,5 @@
 ### Hi
-Right now, it's a mess.
+Nothing interesting right now.
 <!--
 **AndrewGarwood/AndrewGarwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
