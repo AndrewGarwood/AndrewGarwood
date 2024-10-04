@@ -4,6 +4,7 @@
     - Software Development, Mathematics
 - 🌱 I’m currently learning/using:
     - Python, Pandas, Statistical Models, PostgreSQL + Database Management, React, [JavaScript, TypeScript, Suite Script, Office Script]
+    - Recent project activity is committed through my work account.
 
 <!--
 **AndrewGarwood/AndrewGarwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
