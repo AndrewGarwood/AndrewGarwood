@@ -3,7 +3,7 @@
 - 👀 I’m interested in:
     - Software Development, Mathematics
 - 🌱 I’m currently learning/using:
-    - Python, Pandas, Statistical Models, PostgreSQL + Database Management, React, [JavaScript, TypeScript, Suite Script, Office Script]
+    - Python, Pandas, Statistical Models, PostgreSQL + Database Management, React, [JavaScript, TypeScript], NetSuite
     - Recent project activity is on another account.
 
 <!--
