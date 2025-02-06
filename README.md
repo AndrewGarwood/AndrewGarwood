@@ -2,6 +2,7 @@
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in:
     - Software Development, Mathematics
+    - 为人民服务，支持压迫人民的斗争
 - 🌱 I’m currently learning/using:
     - Python, JavaScript/TypeScript
 
