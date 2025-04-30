@@ -2,8 +2,6 @@
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in:
     - Software Development, Mathematics
-- 🌱 I’m currently learning/using:
-    - Python, JavaScript/TypeScript
 
 <!--
 **AndrewGarwood/AndrewGarwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
